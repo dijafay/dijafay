@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dijafay
-- 👀 I’m interested in python lessons 
-- 🌱I am currently learning python
+- 👀 I’m interested: Data  
+- 🌱I am currently learning python, dash plotly, Power BI , Data analysis tools & Methods, Spatial Data
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me : from my aims senegal account 
 
